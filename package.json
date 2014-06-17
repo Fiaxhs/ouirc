@@ -4,7 +4,8 @@
   "dependencies": {
     "irc": "0.3.x",
     "underscore": "1.6.x",
-    "node-notifier": "3.0.x"
+    "node-notifier": "3.0.x",
+    "moment": "^2.7.0"
   },
   "window": {
     "title": "Ouirc",
