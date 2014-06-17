@@ -7,4 +7,6 @@ ouirc
 
 
 ###Setup
-edit `lib/app.js` and edit `Ouirc.prototype.connectServers` according to comments.
+- clone repo
+- edit `lib/app.js` and edit `Ouirc.prototype.connectServers` according to comments.
+- `make` should launch app. (the `nodewebkit` bin should be in your path)
