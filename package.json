@@ -1,0 +1,13 @@
+{
+  "name": "ouirc",
+  "main": "index.html",
+  "dependencies": {
+    "irc": "0.3.x",
+    "underscore": "1.6.x",
+    "node-notifier": "3.0.x"
+  },
+  "window": {
+    "title": "Ouirc",
+    "icon": "img/icon.png"
+  }
+}
